@@ -13,7 +13,7 @@ ie:
 Navigate to the Flogo app directory [Essential !] and issue the following command
 
 ```bash
-flogo install github.com/ayh20/flogo-components/activity/blackwhitelist
+flogo install github.com/haiderali1/flogo-repo/activity/blackwhitelist
 ```
 
 ## Schema
