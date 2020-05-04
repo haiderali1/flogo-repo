@@ -1,0 +1,38 @@
+{
+    "name": "sample",
+    "author": "Haiderali Lakhani",
+    "type": "flogo:activity",
+    "ref": "github.com/haiderali1/flogo-repo/activity/blackwhitelist",
+    "version": "0.0.1",
+    "title": "Sample",
+    "description": "Input concatenated",
+    "homepage": "https://github.com/haiderali1/flogo-repo/tree/master/activity/blackwhitelist",
+    "display": {
+              "description": "Input is concatenated to output",
+              "category": "Utility",
+              "uid": "haiderali1-sample",
+              "visible": true
+           },
+    "inputs":[
+      {
+        "name": "string1",
+        "required": true,
+        "type": "string"
+      },
+      {
+        "name": "string2",
+        "required": true,
+        "type": "string"
+      },
+      {
+        "name": "string3",
+        "type": "string"
+      }
+    ],
+    "outputs": [
+      {
+        "name": "output_string",
+        "type": "string"
+      }
+    ]
+  }
