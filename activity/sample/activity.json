@@ -2,11 +2,11 @@
     "name": "sample",
     "author": "Haiderali Lakhani",
     "type": "flogo:activity",
-    "ref": "github.com/haiderali1/flogo-repo/activity/blackwhitelist",
+    "ref": "github.com/haiderali1/flogo-repo/activity/sample",
     "version": "0.0.1",
     "title": "Sample",
     "description": "Input concatenated",
-    "homepage": "https://github.com/haiderali1/flogo-repo/tree/master/activity/blackwhitelist",
+    "homepage": "https://github.com/haiderali1/flogo-repo/tree/master/activity/sample",
     "display": {
               "description": "Input is concatenated to output",
               "category": "Utility",
